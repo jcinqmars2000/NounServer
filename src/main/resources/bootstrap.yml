@@ -1,0 +1,9 @@
+---
+spring:
+  application:
+    name: NounServer
+  cloud:
+    config: 
+      uri: http://config.responsible-nrg.com
+  profiles:
+    active: noun   
