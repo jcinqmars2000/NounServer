@@ -9,7 +9,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>NounServer/name>
+	<name>NounServer</name>
 	<description>Noun Server</description>
 
 	<parent>
