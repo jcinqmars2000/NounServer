@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.responsible_nrg</groupId>
-	<artifactId>lab-6-noun</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>NounServer</artifactId>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>lab-6-noun</name>
-	<description>Exercise 6</description>
+	<name>NounServer/name>
+	<description>Noun Server</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
